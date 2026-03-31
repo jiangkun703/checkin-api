@@ -1,0 +1,9 @@
+{
+  "name": "checkin-api",
+  "version": "1.0.0",
+  "description": "签到API",
+  "main": "api/index.js",
+  "dependencies": {
+    "redis": "^4.6.0"
+  }
+}
